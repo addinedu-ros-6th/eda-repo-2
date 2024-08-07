@@ -56,14 +56,21 @@ EDA 프로젝트 2조 저장소. 지역별 인구 변화 원인 분석
 3-1. 결과 분석(서울)
 상관관계 그래프 서울 2013 ~ 2022
 ![tmp9](https://github.com/user-attachments/assets/112d9442-190e-4208-9c27-89520af1c7bf)
-![tmp10(https://github.com/user-attachments/assets/84bb08bc-8040-4960-a3f8-6bea25472db0)
+![tmp10](https://github.com/user-attachments/assets/84bb08bc-8040-4960-a3f8-6bea25472db0)
+
+3-2. 결과 분석(경기)
+상관관걔 그래프 경기 2013 ~ 2022
+![tmp11](https://github.com/user-attachments/assets/f44fdfab-cf59-4551-96a7-0ceb2b111e49)
+![tmp12](https://github.com/user-attachments/assets/95a9acdc-e3ae-4d8f-a87e-db9015902f41)
 
 5. 제목설정
 4-1. 결론(서울)
 분석결과, 개인의 경제력은 증가하였지만, 매매가와 전세가가 높아져 거래량이 줄어 든 모습을 보이기 때문에, 집값이 올라가서 서울특별시 인구가 줄어들었다고 판단할 수 있다.
+![tmp13](https://github.com/user-attachments/assets/ab840f1f-5699-458a-af40-6637d66c4a6a)
 
 4-2. 결론(경기)
 분석결과, 우리가 선정한 가설들 말고 또 다른 요인들이 경기도 인구 변화에 더 크게 영향을 준 것으로 판달할 수 있다.
+![tmp14](https://github.com/user-attachments/assets/9a7a4694-6517-4903-87cf-ea53bff19cba)
 
 4-3. 고찰
 1.. 전체 지역의 전 기간 데이터를 활용했다면 전반적인 경향을 파악하기 더 수월했을 것임
